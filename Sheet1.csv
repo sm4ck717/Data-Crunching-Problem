@@ -1,0 +1,37 @@
+Background
+
+"An increasing number of ABC clients and local governments require ABC (and all suppliers) to provide an electronic invoice for goods and services.  Clients require this to improve business process efficiencies, allowing them a 3-way match of orders, invoices, and payments through automated ePurchasing systems. Governments are mandating electronic invoices for all Public sector suppliers to provide transparency of tax payments and to minimize corruption."
+
+"In 2013, just over $10B of ABC’s revenue was electronically invoiced, representing around 400 clients and 100K transactions. This spans all countries (where electronic invoicing is permitted) and all ABC lines of business."
+
+
+
+Challenge
+
+"Over the past 4 years, ABC has established a core set of capabilities to send clients electronic invoices (as transactions in XML, EDI, or in other vendor-specific formats). While investments have been made largely in response to client demand and for client benefit, we believe that there is also a benefit to ABC. Specifically, there is a belief that providing electronic invoices has an improvement on revenue collection and, therefore, on ABC’s overall Cash Flow."
+
+
+
+Questions to answer 
+
+Question1: Are clients paying ABC faster (in fewer days) after electronic invoice is enabled versus before?
+
+"Is the Payment Delay (PD) improved with the same client set in the same accounting period, after being enabled for electronic invoicing?  Measured as follows:"
+PD from Invoice Data
+PD from Due Date
+
+
+
+"Question 2: Is there a positive impact on disputes, pre versus post-enablement?  Measured as follows:"
+
+Fewer disputes (measured in both value and volume)
+Time to identify a dispute (Identification Time)
+Dispute Resolution Time (days between Dispute start date and settled date)
+
+
+
+Question 3:Are there any other notable correlations between electronic invoicing and revenue collection?
+
+Geography (Country)
+Client set (Industry)
+Brand(s) (per Brand column)
